@@ -179,14 +179,16 @@ footer {
   .menu {
     grid-row: 2/3;
     grid-column: 1/6;
-    justify-self: center;
+    justify-self: auto;
     margin-top: 5px;
+    display: flex;
   }
   .menu a {
     border: 1px solid white;
     border-radius: 4px;
     padding: 0px 5px;
     color: white;
+    margin: 0 auto;
   }
   .about {
     margin-left: 5vw;
@@ -233,13 +235,8 @@ footer {
   body {
     font-size: 12px;
   }
-  .menu a {
-    margin-right: 2px;
-  }
-}
-
-@media screen and (max-width: 310px) {
-  body {
-    font-size: 10px;
+  .flag {
+    font-size: 14px;
+    margin-left: 3px;
   }
 }
