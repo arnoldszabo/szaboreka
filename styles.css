@@ -73,9 +73,9 @@ body {
 }
 .logo2 {
   width: 70vw;
-  transform: rotate(-8deg);
-  margin-top: 20vh;
-  margin-left: 12vw;
+  /* transform: rotate(-8deg); */
+  margin-top: 5vh;
+  margin-left: 15vw;
 }
 
 /* about */
