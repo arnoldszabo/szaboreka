@@ -3,7 +3,7 @@ body {
   padding: 0px;
   background-color: #0d0d0d;
   font-family: "Poppins", sans-serif;
-  color: white;
+  color: #eb6123;
   font-size: 24px;
 }
 
@@ -33,7 +33,7 @@ body {
 
 .menu a {
   text-decoration: none;
-  color: white;
+  color: #eb6123;
   margin-right: 10px;
 }
 
@@ -44,7 +44,7 @@ body {
 }
 .social-media a {
   text-decoration: none;
-  color: white;
+  color: #eb6123;
   margin-right: 10px;
 }
 
@@ -60,10 +60,10 @@ body {
   text-decoration: none;
   margin-top: 10px;
   margin-left: 10px;
-  border: 1px solid white;
+  border: 1px solid #eb6123;
   border-radius: 4px;
   padding: 0px 2px;
-  color: white;
+  color: #eb6123;
 }
 
 /* main shit */
@@ -184,10 +184,10 @@ footer {
     display: flex;
   }
   .menu a {
-    border: 1px solid white;
+    border: 1px solid #eb6123;
     border-radius: 4px;
     padding: 0px 5px;
-    color: white;
+    color: #eb6123;
     margin: 0 auto;
   }
   .about {
